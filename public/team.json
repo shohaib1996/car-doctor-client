@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Engine Diagnostics Team",
+        "img": "https://i.ibb.co/SP69r0h/1.jpg",
+        "type": "Engine Expert"
+       
+    },
+    {
+        "id": 2,
+        "title": "Battery Replacement Team",
+        "img": "https://i.ibb.co/Qv5SPL1/2.jpg",
+        "type": "Battery Expert"
+        
+    },
+    {
+        "id": 3,
+        "title": "Brake Repair Squad",
+        "img": "https://i.ibb.co/wJnbxM2/3.jpg",
+        "type": "Brake Specialist"
+        
+    },
+    {
+        "id": 4,
+        "title": "Suspension Experts",
+        "img": "https://i.ibb.co/Qv5SPL1/2.jpg",
+        "type": "Suspension Specialist"
+       
+    },
+    {
+        "id": 5,
+        "title": "Electrical System Team",
+        "img": "https://i.ibb.co/SP69r0h/1.jpg",
+        "type": "Electrical Expert"
+        
+    },
+    {
+        "id": 6,
+        "title": "Tire and Wheel Specialists",
+        "img": "https://i.ibb.co/wJnbxM2/3.jpg",
+        "type": "Tire Expert"
+        
+    }
+]

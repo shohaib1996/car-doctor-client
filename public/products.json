@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Car Engine Plug",
+        "img": "https://i.ibb.co/5jS5hzz/6.png",
+        "price": 10.99,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "title": "Car Air Filter",
+        "img": "https://i.ibb.co/xGXBpGB/3.png",
+        "price": 12.99,
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "title": "Cools Led Light",
+        "img": "https://i.ibb.co/qxx44Wx/1.png",
+        "price": 19.99,
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "title": "Car Drill Machine",
+        "img": "https://i.ibb.co/0YKhKvF/2.png",
+        "price": 49.99,
+        "rating": 4
+    },
+    {
+        "id": 5,
+        "title": "Car Tyre",
+        "img": "https://i.ibb.co/zGN83Nf/5.png",
+        "price": 69.99,
+        "rating": 5
+    },
+    {
+        "id": 6,
+        "title": "Car Battery",
+        "img": "https://i.ibb.co/W2v1SNv/4.png",
+        "price": 89.99,
+        "rating": 4.5
+    }
+]
